@@ -2,8 +2,8 @@ package org.example;
 
 public class Main {
 
-    private static String msg = "Hello QA!!!!!!!";
+    private static String sms = "Hello QA!!!!!!!";
     public static void main(String[] args) {
-        System.out.println(msg);
+        System.out.println(sms);
     }
 }
